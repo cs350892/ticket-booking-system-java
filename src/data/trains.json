@@ -1,0 +1,31 @@
+[
+    {
+        "train_id": "bacs",
+        "train_no": "12345",
+        "seats": [
+            [0,0,0,0,0,0],
+            [0,0,0,0,0,0],
+            [0,0,0,0,0,0],
+            [0,0,0,0,0,0]
+        ],
+        "station_times": {
+            "bangalore": "13:50:00",
+            "jaipur": "13:50:00",
+            "delhi": "13:50:00"
+        },
+        "stations": ["bangalore", "jaipur", "delhi"]
+    },
+    {
+        "train_id": "mexp",
+        "train_no": "54321",
+        "seats": [
+            [0,0,0,0],
+            [0,0,0,0]
+        ],
+        "station_times": {
+            "mumbai": "10:00:00",
+            "pune": "12:00:00"
+        },
+        "stations": ["mumbai", "pune"]
+    }
+]
